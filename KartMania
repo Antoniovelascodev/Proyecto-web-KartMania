@@ -56,8 +56,9 @@
     </header>
 
     <main>
+
         <section> 
-            <h4>Blog de un día en nuestro karting</h4>
+            <h4>Una experiencia inolvidable</h4>
             <video controls autoplay loop muted width="287" height="180">
                 <source src="/ssvid.app--Indoor-Karting-Carreras-de-Karts-Competición-Carreras-pilotos_v720P.mp4" type="video/mp4">
             </video>
@@ -68,53 +69,123 @@
             <video controls autoplay loop muted width="820" height="520">
                 <source src="/ssvid.net---Indoor-Karting-Barcelona-Sergio-Kov-onboard-lap-38-504_1080pFHR.mp4" type="video/mp4">
             </video>
-            
         </section>
 
         <section> 
-            <h4>Una experiencia inolvidable</h4>
+            <h4>Blog de un día en nuestro karting</h4>
             <video controls autoplay loop muted width="287" height="180">
                 <source src="/ssvid.app---Visita-al-Indoor-Karting-de-Barcelona_1080p.mp4" type="video/mp4">
             </video>
         </section>
 
-
         <section> 
-            <section> 
 
+            <h1>NO LO DECIMOS SÓLO NOSOTROS</h1>
+            
+            <section> 
+                <img src="/Copia de Diseño sin título.png" width="380" height="560" >
             </section>
 
             <section> 
 
                 <section> 
-                    <img src="">
+                    <img src="https://i.pinimg.com/236x/c5/bb/6e/c5bb6e4cdf6c37c71979172fc601511d.jpg" width="80" height="80" >
                     <h3>Mario Jiménez</h3>
                     <p>Reseña de Google</p>
-                    <p>5/5  Hace 2 semanas</p> <p>NUEVA</p>
+                    <p><strong>5/5</strong> &nbsp;&nbsp;&nbsp;&nbsp; Hace 2 semanas &nbsp;&nbsp;&nbsp;&nbsp; <strong>NUEVA</strong></p>
+                    <p>Karting Indoor con la mejor iluminación que he visto nunca, la pista es muy diferente a las demás que he estado, sin duda volvería a visi...<a href="más">más</a></p>
                 </section>
 
                 <section> 
-                
+                    <img src="https://img.freepik.com/premium-photo/smiling-man-png-sticker-round-badge-transparent-background_53876-996829.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" >
+                    <h3>Nathan Louis Harrison</h3>
+                    <p>Reseña de Google</p>
+                    <p><strong>5/5</strong> &nbsp;&nbsp;&nbsp;&nbsp; Hace 4 meses</p>
+                    <p>The circuit was much bigger than i tought, maniac karts really correspond their name, its MANIAC driving these kart trough this i...<a href="más">más</a></p>
                 </section>
 
                 <section> 
-                
+                    <img src="https://img.freepik.com/fotos-premium/imagen-perfil-mujer-png-insignia-redonda-pegatina-fondo-transparente_53876-947895.jpg" width="80" height="80" >
+                    <h3>Jimena García Olgaz</h3>
+                    <p>Reseña de Google</p>
+                    <p><strong>5/5</strong> &nbsp;&nbsp;&nbsp;&nbsp; Hace 3 días &nbsp;&nbsp;&nbsp;&nbsp; <strong>NUEVA</strong></p>
+                    <p>Fuimos de despedida de soltera y nos organizaron todo muy bien, equipazo!!!!!</p>
                 </section>
 
                 <section> 
-                
+                    <img src="https://img.freepik.com/premium-photo/managing-user-permissions-roles-ecommerce-platforms_1104763-19809.jpg?semt=ais_hybrid&w=740&q=80" width="80" height="80" >
+                    <h3>Kike Gil Portero</h3>
+                    <p>Reseña de Google</p>
+                    <p><strong>4.7/5</strong> &nbsp;&nbsp;&nbsp;&nbsp; Hace 6 días &nbsp;&nbsp;&nbsp;&nbsp; <strong>NUEVA</strong></p>
+                    <p>Me gustó mucho el karting, lo único que quería ir solo pero había bastante gente en la tanda, igualmente muy divertido</p>
                 </section>
 
             </section>
+
+            <h1>SOMOS EL MEJOR KARTING INDOOR A NIVEL NACIONAL</h1>
+
         </section>
 
+        <section> 
+            <img src="https://images.pexels.com/photos/821723/pexels-photo-821723.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" height="200" width="200" >
+            <p>"Karting is more than just fun"</p>
+            <p> <i>- Max Verstappen </i></p>
+        </section>
+
+        <section> 
+            <h1>NUESTRO MEJOR KART</h1>
+            <p>Esta auténtica bestia alcanza velocidades de hasta <strong>130 km/h</strong>. Para pilotarla es imprescindible tener el <strong> Carnet B</strong> y ser <strong> mayor de 18 años.</strong><br>  
+                Se trata de un kart de dos tiempos con cambio manual, el favorito de los apasionados del karting.<br> <br>
+                Su brutal aceleración de <strong>0 a 100 km/h en menos de 6 segundos</strong>  lo convierte en el segundo kart más rápido de toda España.<br> 
+                Y lo mejor: ¡el nuestro es Indoor!. Una experiencia única y extrema que no encontrarás en ningún otro lugar. <br> <br> 
+                Si te gusta la velocidad, tienes buen control al volante y no le temes a la adrenalina, te recomendamos probarlo. <br> 
+                Aquí tendrás la oportunidad de vivir algo que <strong>solo existe en este circuito.</strong></p>
+            <img src="/kcmax.png" height="300" width="500" > 
+        </section>
+        
+        <section> 
+            <h1>TIENDA ONLINE</h1>
+            <article>
+                <img src="/descarga (3).png" height="200" width="200" >
+                <p>Camiseta Beige Kartmania Mijas</p>
+                <price>10.00€</price> <br>
+                <cuantity>Cantidad de camisetas: <input type="number" min="1" max="100" value="0"></cuantity> <br>
+                <button>Comprar</button>
+            </article>
+            <br><br>
+            <article>
+                <img src="/descarga (4).png" height="200" width="200" >
+                <p>Gorra Negra Kartmania Mijas</p>
+                <price>5.00€</price> <br>
+                <cuantity>Cantidad de gorras: <input type="number" min="1" max="100" value="0"></cuantity> <br>
+                <button>Comprar</button> 
+            </article>
+            <br><br>
+            <article>
+                <img src="/descarga (5).png" height="200" width="200" >
+                <p>Gorra Blanca Kartmania Mijas</p>
+                <price>5.00€</price> <br>
+                <cuantity>Cantidad de gorras: <input type="number" min="1" max="100" value="0"></cuantity> <br>
+                <button>Comprar</button>
+            </article>
+            <br><br>
+            <article>
+                <img src="/descarga (1).png" height="200" width="200" >
+                <p>Camiseta Negra Kartmania Mijas</p>
+                <price>10.00€</price> <br>
+                <cuantity>Cantidad de camisetas: <input type="number" min="1" max="100" value="0"></cuantity> <br>
+                <button>Comprar</button>
+            </article>
+            <br>
+
+        </section>
 
     </main>
 
     <footer> 
+        <br><br> 
         <nomElem id="contacto">Contacto</nomElem>
     </footer>
 
 </body>
 </html>
-
