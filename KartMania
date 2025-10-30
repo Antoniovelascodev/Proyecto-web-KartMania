@@ -12,10 +12,10 @@
 
         <nav> 
             <ul> 
-                <li><a href="">Reserva</a></li> 
-                <li><a href="#contacto">Contacto</a></li>
-                <li><a href="">Acerca de</a></li>
-                <li><a href="">Instalaciones</a></li>
+                <li><a href="">Reserva</a> 
+                <a href="#contacto">Contacto</a>
+                <a href="">Acerca de</a>
+                <a href="">Instalaciones</a></li>
                 <br>
                 <a href="inicioSesion"><img src="https://media.istockphoto.com/id/1200064758/es/vector/inicio-de-sesi%C3%B3n-de-perfil-de-usuario-o-bot%C3%B3n-de-icono-de-autenticaci%C3%B3n-de-acceso-personas.jpg?s=170667a&w=0&k=20&c=zA-sKTdePT3SwdWjl4ABOlvdjH0lwnRId5-K8Hud86w=" width="30"></a></li>
                 <a href="carrito"><img src="https://cdn-icons-png.flaticon.com/512/263/263142.png" width="30" ></a></li>
@@ -241,7 +241,7 @@
             <img src="/descarga (6).png"  width="200" height="50"></img>
             <br> 
             <br>
-            <p>© 2025 KartMania Mijas. Todos los derechos reservados.</p>
+            <p>© 2025 KartMania Mijas. Copyrightñ. Todos los derechos reservados.</p>
         </section>
                
         
@@ -249,4 +249,3 @@
 
 </body>
 </html>
-
